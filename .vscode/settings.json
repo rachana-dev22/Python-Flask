@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6a3bb170-5159-4bff-860b-aa74fb762697/resourceGroups/Python-Flask-RG/providers/Microsoft.Web/sites/Python-Flask-VP",
+    "appService.deploySubpath": "."
+}
